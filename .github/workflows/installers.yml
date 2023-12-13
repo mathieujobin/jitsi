@@ -3,7 +3,7 @@ name: Installers
 on:
   push:
     branches:
-      - master
+      - mantic
   pull_request:
     branches:
       - master
