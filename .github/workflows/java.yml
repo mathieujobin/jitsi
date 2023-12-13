@@ -3,7 +3,7 @@ name: Java Version Builds
 on:
   push:
     branches:
-      - master
+      - mantic
   pull_request:
     branches:
       - master
